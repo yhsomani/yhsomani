@@ -91,10 +91,7 @@
  <img width="10" />
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" height="40"/>
  <img width="10" />
-<div style="display: inline-block; background-color: white;">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" height="40"/>
-</div>
- <img width="10" />
+  <img width="10" />
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" height="40"/>
  <img width="10" />
  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="40"/>
@@ -103,6 +100,7 @@
  <img width="10" />
  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="40"/>
  <img width="10" />
+ <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" height="40"/>
 </div>
 ###
 
