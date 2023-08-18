@@ -93,16 +93,16 @@
  <img width="10" />
  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" height="40"/>
  <img width="10" />
- <span style="background-color: white; padding: 5px; border-radius: 5px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" height="40"/>
-</span>
- <img width="10" />
  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" height="40"/>
  <img width="10" />
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="40"/>
  <img width="10" />
  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="40"/>
  <img width="10" />
+ <span style="background-color: white; padding: 5px; border-radius: 5px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" height="40"/>
+    <img width="10" />
+</span>
 </div>
 ###
 
