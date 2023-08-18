@@ -4,16 +4,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yhsomani&label=Profile%20views&color=0e75b6&style=flat" alt="yhsomani" /> </p>
 
 
-
 - 🔭 I’m currently working on **Enhanced Virtual Classroom**
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👯 I’m looking to collaborate on **********
+- 👯 I’m looking to collaborate on **Android Projects**
 
 - 🤝 I’m looking for help with **Enhanced Virtual Classroom**
 
-- 👨‍💻 All of my projects are available at [*******************](*******************)
+- 👨‍💻 All of my projects are available at [https://github.com/yhsomani](https://github.com/yhsomani)
 
 - 📫 How to reach me **ysomani07@gmail.com**
 
