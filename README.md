@@ -99,7 +99,7 @@
  <img width="10" />
  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="40"/>
  <img width="10" />
- <img src="https://github.com/yhsomani/yhsomani/blob/main/icons8-express-js-50.png" alt="express" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" height="40"/>
     <img width="10" />
 </div>
 ###
