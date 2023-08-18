@@ -1,5 +1,23 @@
-<h1 align="left">Hi there, I'm Yash Somani 👋</h1>
+<h1 align="left">Hi 👋, I'm Yash Somani</h1>
+<h3 align="center">Passionate coder from India, on a journey to discover the endless possibilities of programming. Skilled in Android and Java development, familiar with Python and web development. Eager to take on fresh challenges and expand my expertise. Let's connect and collaborate on exciting projects!</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yhsomani&label=Profile%20views&color=0e75b6&style=flat" alt="yhsomani" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yhsomani" alt="yhsomani" /></a> </p>
+
+- 🔭 I’m currently working on **Enhanced Virtual Classroom**
+
+- 🌱 I’m currently learning **Flutter**
+
+- 👯 I’m looking to collaborate on **********
+
+- 🤝 I’m looking for help with **Enhanced Virtual Classroom**
+
+- 👨‍💻 All of my projects are available at [*******************](*******************)
+
+- 📫 How to reach me **ysomani07@gmail.com**
+
+- 📄 Know about my experiences [https://github.com/yhsomani/yhsomani/blob/main/Yash's%20Resume.pdf](https://github.com/yhsomani/yhsomani/blob/main/Yash's%20Resume.pdf)
 ###
 
 <br clear="both">
