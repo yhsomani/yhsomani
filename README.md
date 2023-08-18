@@ -92,12 +92,12 @@
 </p>
 </div>
 
-
+<!--
 <div align="center">
   <img src="https://profile-counter.glitch.me/yhsomani/count.svg?"  />
 </div>
+-->
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yhsomani" alt="yhsomani" /></a> </p>
-###
 <!--
 **yhsomani/yhsomani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
