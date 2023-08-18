@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yhsomani&label=Profile%20views&color=0e75b6&style=flat" alt="yhsomani" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yhsomani" alt="yhsomani" /></a> </p>
+
 
 - 🔭 I’m currently working on **Enhanced Virtual Classroom**
 
@@ -100,7 +100,7 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/yhsomani/count.svg?"  />
 </div>
-
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yhsomani" alt="yhsomani" /></a> </p>
 ###
 <!--
 **yhsomani/yhsomani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
