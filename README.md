@@ -84,19 +84,14 @@
 ###
 
 <div align="center">
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/somaniyash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="somaniyash" height="30"/></a>
-<a href="https://www.hackerrank.com/ysomani07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ysomani07" height="30" /></a>
-<a href="https://www.leetcode.com/yashsomani_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yashsomani_dev" height="30" /></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/somaniyash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="somaniyash" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ysomani07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ysomani07" height="30"  width="40" /></a>
+<a href="https://www.leetcode.com/yashsomani_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yashsomani_dev" height="30"  width="40"  /></a>
 </p>
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/yhsomani/yhsomani/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/yhsomani/count.svg?"  />
@@ -105,9 +100,7 @@
 ###
 <!--
 **yhsomani/yhsomani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
