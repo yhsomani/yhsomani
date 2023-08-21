@@ -18,17 +18,17 @@
 
 - 📄 Know about my experiences [https://github.com/yhsomani/yhsomani/blob/main/Yash's%20Resume.pdf](https://github.com/yhsomani/yhsomani/blob/main/Yash's%20Resume.pdf)
 ###
-<div align="center">
+<div align="left">
 <h3 align="left">Connect with me:</h3>
-   <div align="right">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yhsomani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /> 
-  </div>
 <p align="left">
 <a href="https://linkedin.com/in/somaniyash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="somaniyash" height="30" width="40" /></a><br>
 <a href="https://www.hackerrank.com/ysomani07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ysomani07" height="30"  width="40" /></a><br>
 <a href="https://www.leetcode.com/yashsomani_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yashsomani_dev" height="30"  width="40"  /></a><be>
 </p>
 </div>
+   <div align="right">
+     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yhsomani&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /> 
+  </div>
 <br clear="both">
 
 <!-- <div align="center">
