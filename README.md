@@ -28,7 +28,7 @@ A robust **Library Management System** designed for efficient library operations
 - User & Admin Portals: Streamlined access for different roles.  
 - 🛠 **Tech Stack**: Java, Swing, MySQL.  
 
-👉 Check it out [here](https://github.com/yhsomani/library-management-system).
+👉 Check it out [here](https://github.com/yhsomani/Library_Management_System).
 
 ---
 
