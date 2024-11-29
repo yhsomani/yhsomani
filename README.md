@@ -63,15 +63,9 @@ A robust **Library Management System** designed for efficient library operations
 
 ### 🌐 Let's Connect  
 <p align="center">
-    <a href="https://linkedin.com/in/somaniyash" target="_blank">
-        <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn" />
-    </a>
-    <a href="https://www.hackerrank.com/ysomani07" target="_blank">
-        <img src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/50/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-bold-tal-revivo.png" alt="HackerRank" />
-    </a>
-    <a href="https://www.leetcode.com/yashsomani_dev" target="_blank">
-        <img src="https://img.icons8.com/external-tal-revivo-tritone-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-tritone-tal-revivo.png" alt="LeetCode" />
-    </a>
+    <a href="https://linkedin.com/in/somaniyash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="somaniyash" height="30" width="40" /></a>
+    <a href="https://www.hackerrank.com/ysomani07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ysomani07" height="30"  width="40" /></a>
+    <a href="https://www.leetcode.com/yashsomani_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yashsomani_dev" height="30"  width="40"  /></a>
 </p>
 
 ---
